@@ -28,7 +28,7 @@ dependencies {
 
 ## Documentation
 
-See [Tutorial here.](https://github.com/danielgerlag/jworkflow/tree/master/docs)
+See [Tutorial here.](https://github.com/sp1ffygeek/jworkflow/tree/master/docs)
 
 ## Fluent API
 
@@ -150,8 +150,8 @@ Since workflows are typically long running processes, they will need to be persi
 There are several persistence providers available as seperate packages.
 
 * Memory Persistence Provider *(Default provider, for demo and testing purposes)*
-* [MongoDB](https://github.com/danielgerlag/jworkflow/tree/master/jworkflow.providers.mongodb)
-* [Amazon DynamoDB](https://github.com/danielgerlag/jworkflow/tree/master/jworkflow.providers.aws)
+* [MongoDB](https://github.com/sp1ffygeek/jworkflow/tree/master/jworkflow.providers.mongodb)
+* [Amazon DynamoDB](https://github.com/sp1ffygeek/jworkflow/tree/master/jworkflow.providers.aws)
 * *(more to come soon...)*
 
 ### Multi-node clusters
@@ -161,34 +161,34 @@ By default, the WorkflowHost service will run as a single node using the built-i
 #### Queue Providers
 
 * SingleNodeQueueProvider *(Default built-in provider)*
-* [RabbitMQ](https://github.com/danielgerlag/jworkflow/tree/master/jworkflow.providers.rabbitmq)
-* [Redis](https://github.com/danielgerlag/jworkflow/tree/master/jworkflow.providers.redis)
-* [AWS Simple Queue Service](https://github.com/danielgerlag/jworkflow/tree/master/jworkflow.providers.aws)
+* [RabbitMQ](https://github.com/sp1ffygeek/jworkflow/tree/master/jworkflow.providers.rabbitmq)
+* [Redis](https://github.com/sp1ffygeek/jworkflow/tree/master/jworkflow.providers.redis)
+* [AWS Simple Queue Service](https://github.com/sp1ffygeek/jworkflow/tree/master/jworkflow.providers.aws)
 
 #### Distributed lock managers
 
 * SingleNodeLockProvider *(Default built-in provider)*
-* [Redis](https://github.com/danielgerlag/jworkflow/tree/master/jworkflow.providers.redis)
-* [Amazon DynamoDB](https://github.com/danielgerlag/jworkflow/tree/master/jworkflow.providers.aws)
+* [Redis](https://github.com/sp1ffygeek/jworkflow/tree/master/jworkflow.providers.redis)
+* [Amazon DynamoDB](https://github.com/sp1ffygeek/jworkflow/tree/master/jworkflow.providers.aws)
 * *(more to come soon...)*
 
 ## Samples
 
-[Hello World](https://github.com/danielgerlag/jworkflow/tree/master/samples/sample01)
+[Hello World](https://github.com/sp1ffygeek/jworkflow/tree/master/samples/sample01)
 
-[Passing Data](https://github.com/danielgerlag/jworkflow/tree/master/samples/sample02)
+[Passing Data](https://github.com/sp1ffygeek/jworkflow/tree/master/samples/sample02)
 
-[If condition](https://github.com/danielgerlag/jworkflow/tree/master/samples/sample06)
+[If condition](https://github.com/sp1ffygeek/jworkflow/tree/master/samples/sample06)
 
-[Responding to external events](https://github.com/danielgerlag/jworkflow/tree/master/samples/sample03)
+[Responding to external events](https://github.com/sp1ffygeek/jworkflow/tree/master/samples/sample03)
 
-[Parallel ForEach](https://github.com/danielgerlag/jworkflow/tree/master/samples/sample04)
+[Parallel ForEach](https://github.com/sp1ffygeek/jworkflow/tree/master/samples/sample04)
 
-[While loop](https://github.com/danielgerlag/jworkflow/tree/master/samples/sample05)
+[While loop](https://github.com/sp1ffygeek/jworkflow/tree/master/samples/sample05)
 
-[Saga Transactions](https://github.com/danielgerlag/jworkflow/tree/master/samples/sample07)
+[Saga Transactions](https://github.com/sp1ffygeek/jworkflow/tree/master/samples/sample07)
 
-[JSON Workflows](https://github.com/danielgerlag/jworkflow/tree/master/samples/sample08)
+[JSON Workflows](https://github.com/sp1ffygeek/jworkflow/tree/master/samples/sample08)
 
 
 

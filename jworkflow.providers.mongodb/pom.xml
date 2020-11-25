@@ -8,7 +8,7 @@
     
     <name>jworkflow.mongodb</name>
     <description>MongoDB Provider for JWorkflow</description>
-    <url>http://github.com/danielgerlag/jworkflow</url>
+    <url>http://github.com/sp1ffygeek/jworkflow</url>
     
     <licenses>
         <license>
@@ -25,9 +25,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git://github.com/danielgerlag/jworkflow.git</connection>
-        <developerConnection>scm:git:ssh://github.com:danielgerlag/jworkflow.git</developerConnection>
-        <url>http://github.com/danielgerlag/jworkflow/tree/master</url>
+        <connection>scm:git:git://github.com/sp1ffygeek/jworkflow.git</connection>
+        <developerConnection>scm:git:ssh://github.com:sp1ffygeek/jworkflow.git</developerConnection>
+        <url>http://github.com/sp1ffygeek/jworkflow/tree/master</url>
     </scm>
     
     <dependencies>

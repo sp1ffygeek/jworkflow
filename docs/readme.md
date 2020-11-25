@@ -40,11 +40,11 @@ dependencies {
 
 ## Samples
 
- * [Hello World](https://github.com/danielgerlag/jworkflow/tree/master/samples/sample01)
- * [Passing Data](https://github.com/danielgerlag/jworkflow/tree/master/samples/sample02)
- * [If condition](https://github.com/danielgerlag/jworkflow/tree/master/samples/sample06)
- * [Responding to external events](https://github.com/danielgerlag/jworkflow/tree/master/samples/sample03)
- * [Parallel ForEach](https://github.com/danielgerlag/jworkflow/tree/master/samples/sample04)
- * [While loop](https://github.com/danielgerlag/jworkflow/tree/master/samples/sample05)
- * [Saga Transactions](https://github.com/danielgerlag/jworkflow/tree/master/samples/sample07)
- * [JSON Workflows](https://github.com/danielgerlag/jworkflow/tree/master/samples/sample08)
+ * [Hello World](https://github.com/sp1ffygeek/jworkflow/tree/master/samples/sample01)
+ * [Passing Data](https://github.com/sp1ffygeek/jworkflow/tree/master/samples/sample02)
+ * [If condition](https://github.com/sp1ffygeek/jworkflow/tree/master/samples/sample06)
+ * [Responding to external events](https://github.com/sp1ffygeek/jworkflow/tree/master/samples/sample03)
+ * [Parallel ForEach](https://github.com/sp1ffygeek/jworkflow/tree/master/samples/sample04)
+ * [While loop](https://github.com/sp1ffygeek/jworkflow/tree/master/samples/sample05)
+ * [Saga Transactions](https://github.com/sp1ffygeek/jworkflow/tree/master/samples/sample07)
+ * [JSON Workflows](https://github.com/sp1ffygeek/jworkflow/tree/master/samples/sample08)

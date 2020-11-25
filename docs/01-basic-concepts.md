@@ -136,7 +136,7 @@ Since workflows are typically long running processes, they will need to be persi
 There are several persistence providers available as seperate packages.
 
 * Memory Persistence Provider *(Default provider, for demo and testing purposes)*
-* [MongoDB](https://github.com/danielgerlag/jworkflow/tree/master/jworkflow.providers.mongodb)
+* [MongoDB](https://github.com/sp1ffygeek/jworkflow/tree/master/jworkflow.providers.mongodb)
 * *(more to come soon...)*
 
 ### Multi-node clusters
@@ -146,14 +146,14 @@ By default, the WorkflowHost service will run as a single node using the built-i
 #### Queue Providers
 
 * SingleNodeQueueProvider *(Default built-in provider)*
-* [RabbitMQ](https://github.com/danielgerlag/jworkflow/tree/master/jworkflow.providers.rabbitmq)
-* [AWS Simple Queue Service](https://github.com/danielgerlag/jworkflow/tree/master/jworkflow.providers.aws)
-* [Redis](https://github.com/danielgerlag/jworkflow/tree/master/jworkflow.providers.redis)
+* [RabbitMQ](https://github.com/sp1ffygeek/jworkflow/tree/master/jworkflow.providers.rabbitmq)
+* [AWS Simple Queue Service](https://github.com/sp1ffygeek/jworkflow/tree/master/jworkflow.providers.aws)
+* [Redis](https://github.com/sp1ffygeek/jworkflow/tree/master/jworkflow.providers.redis)
 
 #### Distributed lock managers
 
 * Single Lock Manager *(Default built-in provider)*
-* [Redis](https://github.com/danielgerlag/jworkflow/tree/master/jworkflow.providers.redis)
+* [Redis](https://github.com/sp1ffygeek/jworkflow/tree/master/jworkflow.providers.redis)
 
 
 
