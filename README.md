@@ -1,6 +1,6 @@
 # JWorkflow
 
-JWorkflow is a light weight workflow library for Java.  It supports pluggable persistence and concurrency providers to allow for multi-node clusters.
+JWorkflow is a light weight workflow library for Java based on https://github.com/danielgerlag/jworkflow. I have made some modifications to be able to control number of thread executions and also parameterized execution on caller thread.
 
 ## Installing
 
@@ -195,6 +195,7 @@ By default, the WorkflowHost service will run as a single node using the built-i
 ## Contributors
 
 * **Daniel Gerlag** - *Initial work*
+* **Pramod Yadav** - *Enhancements*
 
 ## License
 
