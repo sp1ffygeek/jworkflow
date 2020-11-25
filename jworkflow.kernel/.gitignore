@@ -1,0 +1,9 @@
+/target
+/.project
+/.settings
+/.classpath
+!/.idea/
+!/jworkflow.iml
+jworkflow.iml
+pom.xml.versionsBackup
+.idea/google-java-format.xml
